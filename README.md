@@ -14,8 +14,8 @@ A full-stack property listing platform built using Flutter (Frontend) and Expres
 ## 📂 Project Repositories
 | Part      | Repository                                       |
 |-----------|--------------------------------------------------|
-| 🔸 Frontend | [estates-front](https://github.com/samyamdhamala/estates-front) |
-| 🔹 Backend  | [estates-nepal](https://github.com/samyamdhamala/estatesnepal) |
+| 🔸 Frontend | [estates-front](https://github.com/samyamdhamala/e-statesfront) |
+| 🔹 Backend  | [estates-nepal](https://github.com/samyamdhamala/e-statesnepal) |
 
 ---
 
